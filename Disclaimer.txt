@@ -1,0 +1,29 @@
+# DISCLAIMER
+
+This project is created strictly for educational and research purposes.
+
+The purpose of this software is to help students, cybersecurity learners, and
+network administrators understand basic networking concepts and security risks.
+
+Authorized Use Only
+This tool must be used only on systems, networks, or devices that you own or
+have explicit written permission to test. Unauthorized scanning or testing of
+networks is illegal and unethical.
+
+No Malicious Intent
+This project is not intended to exploit, damage, disrupt, or gain unauthorized
+access to any system or network. Any attempt to misuse this software is strictly
+prohibited.
+
+User Responsibility
+The author of this project is not responsible for any misuse, damage, or legal
+consequences resulting from the use of this software. Users assume full
+responsibility for their actions when using this tool.
+
+Educational Resource
+This project is provided as a learning resource only and should be used in a
+controlled environment such as a personal lab, virtual machine, or authorized
+test network.
+
+By using this software, you agree to comply with all applicable local, national,
+and international laws.
