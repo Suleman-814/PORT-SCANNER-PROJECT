@@ -275,17 +275,4 @@ Scan your own VM:
 
 ```bash
 python3 Scanner.py 127.0.0.1 1 1024
-```
 
----
-
-### Final Result
-
-Anyone on Linux can now:
-
-* Clone your repo
-* Run the script safely
-* Understand ethical limits
-* Learn networking basics
-
-If you want, I can **insert this section directly into your README** in clean Markdown so you don’t have to format anything.
