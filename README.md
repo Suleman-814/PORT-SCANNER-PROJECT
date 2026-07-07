@@ -116,14 +116,6 @@ MIT License
 
 #########################################################################################################################################################################################
 
-# How to run in Linux?
-
-Great question 👍
-Here is the **exact, beginner‑friendly way** someone can run **your port scanner on Linux** (this works on Ubuntu, Kali, Debian, etc.).
-
-You can also copy this into your README if you want.
-
----
 
 ## How to Run the Port Scanner on Linux
 
