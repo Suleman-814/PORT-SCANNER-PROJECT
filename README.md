@@ -149,7 +149,7 @@ sudo apt install python3
 If using GitHub:
 
 ```bash
-git clone https://github.com/<your-username>/PortScanner.git
+git clone https://github.com/Suleman-814/PORT-SCANNER-PROJECT.git
 cd PortScanner
 ```
 
