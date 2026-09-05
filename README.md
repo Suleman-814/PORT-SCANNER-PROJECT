@@ -203,7 +203,7 @@ python3 Scanner.py 127.0.0.1 20 100
 
 ---
 
-### 6️⃣ Expected Output
+### 6️⃣ Output
 
 * Banner and disclaimer
 * Each scanned port displayed
