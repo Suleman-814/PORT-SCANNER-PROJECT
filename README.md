@@ -30,10 +30,6 @@ Features
 
 ---
 
-
-
----
-
 Requirements
 - Linux operating system (tested on Linux VM in VirtualBox)
 - Python 3.x
@@ -106,10 +102,6 @@ Learning Outcomes
 * Learning Python socket programming
 * Awareness of network security risks
 * Introduction to ethical hacking concepts
-
-
-
-
 
 License
 MIT License
