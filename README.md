@@ -255,7 +255,7 @@ python3 Scanner.py 127.0.0.1 1 1024
 
 
 Note
-Educational Purpose Only!!
+Educational Purpose Only!
 
 
 Thank You!!
